@@ -17,8 +17,8 @@
   "dependencies": {
     "id_translator": "https://github.com/alanfairless/id_translator/tarball/master",
     "cryptojs": "2.5.x",
-    "express": "3.x",
-    "connect": "2.7.x",
+    "express": "4.20.0",
+    "connect": "3.0.0",
     "commander": "1.1.x",
     "pg": "1.1.x",
     "node-uuid": "1.4.x",
